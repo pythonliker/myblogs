@@ -1,8 +1,6 @@
-# Myblogs
+# 最迷人的二营长
+
+> [个人博客](https://blog.csdn.net/m0_37965018)
 
 
-> 我要开始装逼了
-
-
-[CSDN](https://blog.csdn.net/)
-[滚动鼠标](#introduction)
+> [GitHub](https://github.com/Corefo/ "github")
